@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35026.282
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebGIS2025", "WebGIS2025.csproj", "{EBDDCD4C-7BF5-48CB-8767-E7FBE388C090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDDCD4C-7BF5-48CB-8767-E7FBE388C090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDDCD4C-7BF5-48CB-8767-E7FBE388C090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDDCD4C-7BF5-48CB-8767-E7FBE388C090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDDCD4C-7BF5-48CB-8767-E7FBE388C090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008D2741-8293-4885-81A8-480568FAC76C}
+	EndGlobalSection
+EndGlobal
